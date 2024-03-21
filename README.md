@@ -1,8 +1,12 @@
 # Shaun Monwabisi Teka (Data Analyst)
 
 ## Education
-Bachelor of Science in Information Technology
+- Bachelor of Science in Information Technology
+- Google Advanced Data Analytics Specialization
+- Google Business Intelligence Certificate
 
 ### Projects
-IT Project
+- IT Project Final Year (e-Commerce Store)
+- Data Analytics Portfolio
+- Buisness Intelligence Portfolio
 
