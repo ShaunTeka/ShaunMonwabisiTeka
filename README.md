@@ -1,4 +1,4 @@
-# Shaun Monwabisi Teka (Data Analyst)
+# Shaun Monwabisi Teka (Junior Data Analyst)
 
 ## Objectives 
 Eager and motivated Junior Data Analyst with a passion for transforming 
