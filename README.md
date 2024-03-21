@@ -1,6 +1,6 @@
 # Shaun Monwabisi Teka (Junior Data Analyst)
 
-## Objectives 
+## Career Objectives 
 Eager and motivated Junior Data Analyst with a passion for transforming 
 complex datasets into actionable insights. Proficient in database management(data cleaning & data merging), 
 SQL, Python, and C#. Seeking to leverage skills and knowledge to provide 
