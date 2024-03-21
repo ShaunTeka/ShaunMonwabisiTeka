@@ -24,7 +24,7 @@ contributions to organizational success.
 - Google Advanced Data Analytics Specialization
 - Google Business Intelligence Certificate
 
-### Projects
+## Projects
 - Data Analytics Portfolio
 - Buisness Intelligence Portfolio
 
