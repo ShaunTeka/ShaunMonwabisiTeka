@@ -2,7 +2,7 @@
 
 ## Objectives 
 Eager and motivated Junior Data Analyst with a passion for transforming 
-complex datasets into actionable insights. Proficient in database management, 
+complex datasets into actionable insights. Proficient in database management(data cleaning & data merging), 
 SQL, Python, and C#. Seeking to leverage skills and knowledge to provide 
 technology and data support for a dynamic team in improving organizational 
 service delivery and streamlining business processes. Dedicated to continuous 
