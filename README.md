@@ -1,4 +1,4 @@
-# (Junior Data Analyst)
+# Junior Data Analyst
 
 ## Career Objectives 
 Eager and motivated Junior Data Analyst with a passion for transforming 
