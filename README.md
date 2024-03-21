@@ -25,7 +25,6 @@ contributions to organizational success.
 - Google Business Intelligence Certificate
 
 ### Projects
-- IT Project (Final Year (e-Commerce Store))
 - Data Analytics Portfolio
 - Buisness Intelligence Portfolio
 
