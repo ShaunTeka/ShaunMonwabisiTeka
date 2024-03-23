@@ -25,6 +25,6 @@ contributions to organizational success.
 - Google Business Intelligence Certificate
 
 ## Projects
-- Data Analytics Portfolio
-- Buisness Intelligence Portfolio
+- [Data Analytics Portfolio](https://github.com/ShaunTeka/ShaunMonwabisiTeka)
+- [Buisness Intelligence Portfolio](https://github.com/ShaunTeka/ShaunMonwabisiTeka)
 
